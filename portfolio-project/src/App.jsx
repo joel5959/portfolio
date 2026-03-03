@@ -11,7 +11,6 @@ function App() {
     return (
         <div className="app-container">
             <NavBar links={['Home', 'About', 'Contact', 'Projects']}/>
-            <Header title="Joel Williams"/>
 
             <Routes>
                 <Route path="/" element={<Home/>}/>
