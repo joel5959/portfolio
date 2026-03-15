@@ -1,8 +1,4 @@
-@import "tailwindcss";
 @import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700&display=swap');
-
-/* If you're using HeroUI's Tailwind plugin (most common setup): */
-@source '../node_modules/@heroui/theme/dist';
 
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
